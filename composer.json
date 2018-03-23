@@ -1,0 +1,17 @@
+{
+  "name": "sourcebroker/database-backup-dist",
+  "license": [
+    "GPL-2.0+"
+  ],
+  "authors": [
+    {
+      "name": "Krystian Szymukowicz",
+      "email": "k.szymukowicz@gmail.com"
+    },
+    {
+      "name": "Krystian Liński",
+      "email": "krystian.linski@gmail.com"
+    }
+  ],
+  "bin": ["backup"]
+}
